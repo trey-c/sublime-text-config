@@ -1,0 +1,25 @@
+{
+	"auto_complete": false,
+	"auto_complete_commit_on_tab": true,
+	"auto_upgrade": false,
+	"caret_extra_bttom": 0,
+	"caret_extra_top": 0,
+	"caret_extra_width": 0,
+	"color_scheme": "Packages/Meetio Theme/schemes/Meetio-Theme-Dark.sublime-color-scheme",
+	"draw_white_space": "selection",
+	"font_face": "Source Code Pro",
+	"font_size": 10,
+	"hot_exit": false,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"lsp_format_on_save": true,
+	"open_files_in_new_window": false,
+	"preview_on_click": false,
+	"remember_open_files": false,
+	"tab_size": 4,
+	"theme": "Meetio-Theme.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"word_wrap": true
+}

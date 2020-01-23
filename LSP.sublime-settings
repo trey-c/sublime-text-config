@@ -1,0 +1,11 @@
+{
+    "only_show_lsp_completions": true,
+    "auto_show_diagnostics_panel": "always",
+	"clients":
+	{
+		"clangd":
+		{
+			"enabled": true
+		}
+	}
+}

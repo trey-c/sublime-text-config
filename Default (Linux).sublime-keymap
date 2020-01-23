@@ -1,0 +1,36 @@
+[
+    /* Auto Complete */
+    { "keys": ["alt+u"], "command": "auto_complete" },
+    { "keys": ["alt+i"], "command": "hide_auto_complete" },
+
+    /* File/Tab Navigation */
+    { "keys": ["alt+m"], "command": "show_overlay", "args":{"overlay": "goto", "show_files": true} },
+    { "keys": ["alt+/"], "command": "close_file" },
+    { "keys": ["alt+,"], "command": "prev_view" },
+    { "keys": ["alt+."], "command": "next_view" },
+
+    /* Arrow key Replacement */
+    { "keys": ["alt+;"], "command": "move", "args": {"by": "characters", "forward": true} },
+    { "keys": ["alt+j"], "command": "move", "args": {"by": "characters", "forward": false} },
+    { "keys": ["alt+k"], "command": "move", "args": {"by": "lines", "forward": false} },
+    { "keys": ["alt+l"], "command": "move", "args": {"by": "lines", "forward": true} },
+    { "keys": ["shift+alt+;"], "command": "move", "args": {"by": "characters", "forward": true, "extend": true} },
+    { "keys": ["shift+alt+j"], "command": "move", "args": {"by": "characters", "forward": false, "extend": true} },
+    { "keys": ["shift+alt+k"], "command": "move", "args": {"by": "lines", "forward": false, "extend": true} },
+    { "keys": ["shift+alt+l"], "command": "move", "args": {"by": "lines", "forward": true, "extend": true} },
+    
+    /* Utils */
+    { "keys": ["alt+a"], "command": "save_all" },
+    { "keys": ["alt+d"], "command": "find_under_expand" },
+    { "keys": ["alt+z"], "command": "undo" },
+    { "keys": ["ctrl+alt+;"], "command": "move_to", "args": {"to": "eol", "extend": false} },
+    { "keys": ["ctrl+alt+j"], "command": "move_to", "args": {"to": "bol", "extend": false} },
+    { "keys": ["ctrl+alt+k"], "command": "move", "args": {"by": "pages", "forward": false} },
+    { "keys": ["ctrl+alt+l"], "command": "move", "args": {"by": "pages", "forward": true} },
+
+    /* Plugins */
+    { "keys": ["shift+alt+n"], "command": "advanced_new_file_new"},
+
+    /* Extras */
+    { "keys": ["f3"], "command": "expand_tabs"},
+]

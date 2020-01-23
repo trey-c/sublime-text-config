@@ -1,0 +1,12 @@
+*
+!.gitignore
+
+!*/
+!README.md
+!LICENSE
+
+!Default (Linux).sublime-keymap
+!LSP.sublime-settings
+!Package Control.sublime-settings
+!Preferences.sublime-settings
+!Terminal.sublime-settings

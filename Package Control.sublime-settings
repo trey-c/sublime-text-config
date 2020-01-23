@@ -1,0 +1,24 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"AdvancedNewFile",
+		"AutoFileName",
+		"DocBlockr",
+		"Dockerfile Syntax Highlighting",
+		"EditorConfig",
+		"Emmet",
+		"fish",
+		"LSP",
+		"Meetio Theme",
+		"Meson",
+		"Package Control",
+		"Requester",
+		"SyncedSideBar",
+		"Terminal",
+	]
+}
